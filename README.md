@@ -1,3 +1,3 @@
 # tradeflow-polity
 
-Analysis of trade flows and polity scores across countries from 1960-2018.
+Analysis of trade flows and polity scores across countries from 1990-2006.
